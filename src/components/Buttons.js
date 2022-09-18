@@ -3,7 +3,7 @@ import React from 'react';
 const Buttons = () => {
     return (
         <div>
-            <button className='bg-gray-300 p-3 text-lg rounded-full flex w-80 mb-4'>
+            <button className='bg-gray-200 p-3 text-lg rounded-full flex w-80 mb-4'>
                 <p className='bg-violet-700 px-2 rounded-full text-white'>A</p>
                 <p className='ml-2'>Campaign Structure</p>
             </button>
